@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Amedeo Palopoli
 
-<!--
-**aru-amedeo/aru-amedeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌍 Cloud Architect at [Aruba Cloud](https://www.arubacloud.com)  
+- ☸️ Kubernetes specialist since 2016 — CNCF **Kubeastronaut**  
+- 📚 Published research with **IEEE** & **ACM** on container orchestration   
+- 🌱 Passionate about **cloud-native**, **DevOps**, and building resilient platforms  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Cloud & Platforms**: AWS, Azure, GCP, Proxmox  
+- **Kubernetes & CNCF**: CKA, CKAD, CKS, KCNA certified  
+- **Infrastructure as Code**: Terraform, Ansible  
+- **DevOps**: GitLab CI/CD, Argo CD, GitOps patterns  
+- **Observability & Search**: Elasticsearch Certified Engineer  
+- **Programming Languages**: Java, Go
+- **Frameworks**: Spring Boot, Spring Cloud, KubeBuilder (K8S Operators)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- 🏅 AWS Solutions Architect Associate  
+- 🏅 Certified Kubernetes Administrator (CKA)  
+- 🏅 Certified Kubernetes Application Developer (CKAD)  
+- 🏅 Certified Kubernetes Security Specialist (CKS)  
+- 🏅 Kubernetes & Cloud Native Security Associate (KCSA)  
+- 🏅 Elasticsearch Certified Engineer  
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amedeopalopoli&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amedeopalopoli&layout=compact&theme=tokyonight)
+
+## ✨ Publications
+- [IEEE: Container orchestration engines — performance comparison](https://ieeexplore.ieee.org/abstract/document/8762053)  
+- [ACM: QoS and performance metrics for container-based virtualization](https://dl.acm.org/doi/abs/10.1145/3288599.3288631)  
+
+## 🔗 Connect with Me
+- 🌐 [amedeopalopoli.com](https://amedeopalopoli.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amedeopalopoli/)  
+- 📝 [Credly Certifications](https://www.credly.com/users/amedeo-palopoli)  
+- 🐙 [GitHub](https://github.com/amedeopalopoli)  

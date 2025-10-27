@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🌍 Cloud Architect at [Aruba Cloud](https://www.arubacloud.com)  
-- ☸️ Kubernetes specialist since 2016 — CNCF **Kubeastronaut**  
-- 📚 Published research with **IEEE** & **ACM** on container orchestration   
+- ☸️ Kubernetes specialist since 2016 — [CNCF **Kubeastronaut**](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=it&p=amedeo-palopoli)  
+- 📚 Published research with [**IEEE**](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=amedeo%20palopoli) & [**ACM**](https://dl.acm.org/action/doSearch?AllField=amedeo+palopoli) on container orchestration   
 - 🌱 Passionate about **cloud-native**, **DevOps**, and building resilient platforms  
 
 ## 🛠️ Skills & Tools
